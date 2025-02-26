@@ -1,0 +1,41 @@
+.container {
+  width: 1230px;
+  margin: 0 auto;
+  padding: 0 15 px;
+}
+.qwe {
+  display: flex;
+}
+.header-ul {
+  display: flex;
+  list-style: none;
+}
+.header-li {
+  margin-right: 80px;
+}
+.body {
+  font-family: "Courier New", Courier, monospace;
+}
+.header-a {
+  margin-right: 80px;
+}
+.main-h1 {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.button {
+  background-color: blue;
+  margin-right: 500px;
+}
+.main-ul {
+  padding-top: 100px;
+  display: flex;
+  list-style: none;
+}
+.aaa::before {
+  content: "";
+  background-image: url("./antenna1.png");
+  width: 70px;
+  height: 70px;
+}

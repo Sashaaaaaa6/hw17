@@ -64,7 +64,6 @@
 .work-ul {
   display: flex;
   list-style: none;
-  padding-top: 100px;
 }
 .h2 {
   text-align: center;
@@ -75,7 +74,7 @@
   padding-right: 50px;
 }
 .box1 {
-  position: absolute;
+  /* position: absolute; */
   width: 370px;
   height: 294px;
   left: 215px;
@@ -84,14 +83,14 @@
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 .box2 {
-  position: absolute;
+  /* position: absolute; */
   width: 370px;
   height: 294px;
   left: 615px;
   top: 1208px;
 }
 .box3 {
-  position: absolute;
+  /* position: absolute; */
   width: 370px;
   height: 294px;
   left: 1015px;
@@ -109,28 +108,28 @@
   padding-right: 30px;
 }
 .box4 {
-  position: absolute;
+  /* position: absolute; */
   width: 270px;
   height: 368px;
   left: 215px;
   top: 1782px;
 }
 .box5 {
-  position: absolute;
+  /* position: absolute; */
   width: 270px;
   height: 368px;
   left: 515px;
   top: 1782px;
 }
 .box6 {
-  position: absolute;
+  /* position: absolute; */
   width: 270px;
   height: 368px;
   left: 815px;
   top: 1782px;
 }
 .box7 {
-  position: absolute;
+  /* position: absolute; */
   width: 270px;
   height: 368px;
   left: 1115px;
